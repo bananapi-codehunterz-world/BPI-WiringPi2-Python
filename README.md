@@ -1,4 +1,17 @@
 # BPI-WiringPi2-Python README
+```
+Author:   hexzhen3x7
+Version:  0.2a
+Github:   https://github.com/bpi-codehunterz-world/BPI-WiringPi2
+Website:  https://codehunterz.world || https://blackzspace.de
+```
+
+
+Description:
+
+This is a modified WiringPi - Libarys for Banana Pi's !"
+
+I DO NOT OWN ANY RIGHTS !!
 
 This is a modified WiringPi2-Python for BPI M1 / M1Plus /M2. We call it BPI-WiringPi2-Python.
 It is based on the original [WiringPi for Raspberry Pi created by Drogon](http://wiringpi.com/).
