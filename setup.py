@@ -16,7 +16,7 @@ setup(
     author_email = "phil@gadgetoid.com",
     url = 'https://github.com/bpi-codehunterz-world/BPI-WiringPi2-Python',
     description = """A python interface to WiringPi 2.0 library which allows for
-    easily interfacing with the GPIO pins of the Raspberry Pi. Also supports
+    easily interfacing with the GPIO pins of the Banana Pi. Also supports
     i2c and SPI""",
     long_description=open('README').read(),
     ext_modules = [ _wiringpi2 ],
