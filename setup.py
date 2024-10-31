@@ -14,7 +14,7 @@ setup(
     version = '1.1.1',
     author = "Philip Howard",
     author_email = "phil@gadgetoid.com",
-    url = 'https://github.com/Gadgetoid/WiringPi2-Python/',
+    url = 'https://github.com/bpi-codehunterz-world/BPI-WiringPi2-Python',
     description = """A python interface to WiringPi 2.0 library which allows for
     easily interfacing with the GPIO pins of the Raspberry Pi. Also supports
     i2c and SPI""",
